@@ -1,8 +1,9 @@
- #This is a Moviepedia Web APP :
+ This is a Moviepedia Web APP :
  
 ●	Built Using : html, css, javascript, reactjs, hooks, data fetching, web api
+
 ●	It is a wikipedia for movies. It contains information about movies using omdb api.
-●	It also has an inbuilt note keeper which can be used as a watchlist creator so that users can make a list of movies that they want to watch.
+
  
 Screenshots :-
 ![image](https://user-images.githubusercontent.com/62214620/185144421-5da825ce-5725-46fc-a3dc-220d3980da84.png)
